@@ -1,6 +1,26 @@
+#print your name.
 print("kanna")
 
-print your name and college name 
-
+#print your name and college name.
 print("kanna")
 print("scient institute of technology")
+
+#print some numbers in a single line separated by commas.
+print(3, 6, 9)
+
+#write two print statements in one line using a semicolon.
+print("kanna"); print("kutti")
+
+#add 10 and 20 print the result
+a=10
+b=20
+print(a+b)
+
+#print your age
+age = 18
+print("My age is:", age")
+
+#print Your wish anything
+print("this day 1")
+print("I am learning python")
+print("7/10/25 Today My task is over and I will go tomorrow new topic")
