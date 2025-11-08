@@ -1,0 +1,26 @@
+#Print a sentence on two separate lines using one print statement.
+print("Python is easy.\nI am learning it.")
+
+
+#Print a multi-line poem using triple quotes
+print("""It's something how you left without a word, something how your silence hurts the most, and something how I'm still holding pieces of us alone.""")
+
+
+
+#print Kanna: "Learning Python"
+print("Kanna: \"Learning Python\"")
+
+
+#Print a line with emojis:
+print("💔 kanna 💔")
+
+#Print 5 stars in one line using only one print.
+print("*******")
+
+print your name and Course using alignment.
+print("name\t: kanna")
+print("course\t: python")
+
+
+#print \new\folder\python
+print("\\new\\folder\\python")
